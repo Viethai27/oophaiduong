@@ -1,0 +1,16 @@
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195._1.Form1.resources
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.csproj.GenerateResource.cache
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.AssemblyInfoInputs.cache
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.AssemblyInfo.cs
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.csproj.CoreCompileInputs.cache
+D:\Csharp\CALC227195.1\CALC227195.1\bin\Debug\net8.0-windows\CALC227195.1.exe
+D:\Csharp\CALC227195.1\CALC227195.1\bin\Debug\net8.0-windows\CALC227195.1.deps.json
+D:\Csharp\CALC227195.1\CALC227195.1\bin\Debug\net8.0-windows\CALC227195.1.runtimeconfig.json
+D:\Csharp\CALC227195.1\CALC227195.1\bin\Debug\net8.0-windows\CALC227195.1.dll
+D:\Csharp\CALC227195.1\CALC227195.1\bin\Debug\net8.0-windows\CALC227195.1.pdb
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.dll
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\refint\CALC227195.1.dll
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.pdb
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\CALC227195.1.genruntimeconfig.cache
+D:\Csharp\CALC227195.1\CALC227195.1\obj\Debug\net8.0-windows\ref\CALC227195.1.dll
